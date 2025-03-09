@@ -170,8 +170,14 @@ NextAuth.js is primarily for authentication, not registration. Implement a custo
 
 This guide provides a comprehensive overview of implementing NextAuth.js for authentication in Next.js applications. Remember that NextAuth.js handles authentication, while user registration requires a custom implementation
 
-For Collaboration, Mail me at [**krishdesai044@gmail.com**](mailto:arindammajumder2020@gmail.com)
+If you found this blog post helpful, please consider sharing it with others who might benefit. You can also follow me for more content on JavaScript, React.js, Next.js, and other web Development topics.
 
-Thank you : )
+For *Paid collaboration*, *Web Development freelancing* *work*, mail me at: [**krishdesai044@gmail.com**](mailto:krishdesai044@gmail.com)
+
+Connect with me on [**Twitter**](https://x.com/DKB972), [**LinkedIn**](https://www.linkedin.com/in/krishdesai117/), and [**GitHub**](https://github.com/dkcoder02).
+
+Thank you for Reading
+
+Happy Coding
 
 ![Thank You](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnpiYmJiOHoweXY2Y3h0ZTk3enk2ZHduMTRkZGQ4a2ZrbHZnazVsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RipfZWzjUDH25euMpM/giphy.gif align="center")
