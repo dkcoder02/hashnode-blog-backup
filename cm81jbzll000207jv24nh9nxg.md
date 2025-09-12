@@ -7,7 +7,6 @@ cuid: cm81jbzll000207jv24nh9nxg
 slug: what-is-csr-ssr-ssg-and-isr
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1741515022426/0ae5144a-debb-495f-b65e-5b90d48e7425.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1741518545754/6a4a68c9-70ac-498a-ae58-e0c33ec6e81b.png
-tags: web-development, seo, ssr, nextjs, ssg, seo-for-developers, csrvsssr, next-js-15
 
 ---
 
