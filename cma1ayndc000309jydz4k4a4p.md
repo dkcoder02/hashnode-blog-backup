@@ -7,7 +7,6 @@ cuid: cma1ayndc000309jydz4k4a4p
 slug: dont-create-virtual-environment-python-in-2025
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1745858054045/c195aa00-d21b-4060-ba2e-30dde566560f.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1745858245335/a7ac2e8c-49fc-4702-aba4-f5c3331bfcb7.png
-tags: python, npm, fastapi, uv, python-venv
 
 ---
 
