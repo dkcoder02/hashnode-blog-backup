@@ -6,7 +6,6 @@ datePublished: Sun Sep 07 2025 11:26:57 GMT+0000 (Coordinated Universal Time)
 cuid: cmf9lydyo000602lgglhz0rn8
 slug: hacking-ai-agents-with-just-a-prompt
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1757243812755/0201467f-dfcb-4d2a-a465-08892a0f046b.png
-tags: ai, software-development, javascript, hacking, openai
 
 ---
 
