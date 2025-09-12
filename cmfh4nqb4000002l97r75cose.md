@@ -101,7 +101,7 @@ This case study follows the technical playbook governments use to restrict acces
 
 ---
 
-## Real-World Examples (Short)
+## Real-World Examples
 
 * **India (TikTok & others, 2020):** App-store removals were immediate; subsequent blocking efforts used DNS and IP-level enforcement to limit access domestically. Many users sideloaded APKs and used VPNs to continue usage.
     
